@@ -1,0 +1,9 @@
+/build_mac
+build
+build_test/
+.directory
+*.user
+x64
+Win32
+.vs
+.DS_Store

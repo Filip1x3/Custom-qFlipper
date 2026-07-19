@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="none">
+  <!-- Gear - pixel art style (hover) -->
+  <rect x="8" y="1" width="4" height="3" fill="#FFFFFF" opacity="0.8"/>
+  <rect x="16" y="8" width="3" height="4" fill="#FFFFFF" opacity="0.8"/>
+  <rect x="8" y="16" width="4" height="3" fill="#FFFFFF" opacity="0.8"/>
+  <rect x="1" y="8" width="3" height="4" fill="#FFFFFF" opacity="0.8"/>
+  <rect x="4" y="4" width="3" height="3" fill="#FFFFFF" opacity="0.8"/>
+  <rect x="13" y="4" width="3" height="3" fill="#FFFFFF" opacity="0.8"/>
+  <rect x="4" y="13" width="3" height="3" fill="#FFFFFF" opacity="0.8"/>
+  <rect x="13" y="13" width="3" height="3" fill="#FFFFFF" opacity="0.8"/>
+  <rect x="5" y="5" width="10" height="10" fill="#FFFFFF" opacity="0.8"/>
+  <rect x="8" y="8" width="4" height="4" fill="#000000"/>
+</svg>
